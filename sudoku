@@ -112,7 +112,7 @@
     </select>
     <button id="themeToggle" onclick="toggleDarkMode()">🌙</button>
     <select id="language" class="lang-select" onchange="setLanguage(this.value)">
-      <option value="en">English</option>
+      <option value="en" selected>English</option>
       <option value="pl">Polski</option>
       <option value="fr">Français</option>
       <option value="es">Español</option>
